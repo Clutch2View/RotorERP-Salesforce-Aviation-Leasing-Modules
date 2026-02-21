@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "rotorerp-core",
+      "versionName": "Core Foundation",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": "RotorERP Core Foundation — Legal Entity, Aircraft, Lease Contract, and supporting objects"
+    }
+  ],
+  "name": "RotorERP",
+  "namespace": "rotorerp",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "rotorerp-core": "0Ho000000000000000"
+  }
+}
