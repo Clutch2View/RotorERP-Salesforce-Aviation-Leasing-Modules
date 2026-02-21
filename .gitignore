@@ -1,0 +1,36 @@
+# Salesforce
+.sfdx/
+.sf/
+deploy-options.json
+
+# LWC
+**/lwc/**/__tests__/data/
+**/lwc/**/*.css.map
+
+# Node
+node_modules/
+package-lock.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch org auth
+authFile.json
+
+# PMD cache
+.pmdCache
+
+# Coverage
+coverage/
+test-results/
+
+# Logs
+*.log
+npm-debug.log*
